@@ -10,8 +10,8 @@ This Chrome browser extension enhances your experience on [ChatGPT](https://chat
 - **Passive Visualization**: Displays a small circular meter next to every prompt sent, without modifying the input or output of ChatGPT.
 - **Real-time API Integration**: Sends your prompt to the OpenAI API and retrieves a numerical response, visualized through the meter.
 - **Color-Coded Meter**: 
-  - **Yellow (0)**: Indicates the lowest value.
-  - **Red (10)**: Indicates the highest value.
+  - **red (0)**: Indicates the lowest value.
+  - **green (10)**: Indicates the highest value.
 - **Conversation Awareness**: Keeps track of all prompts in the current discussion, ensuring that meters remain visible even in longer conversations.
 - **Customizable API Key**: Allows you to input your OpenAI API key securely in the extension settings.
 
