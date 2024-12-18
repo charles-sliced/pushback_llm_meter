@@ -1,6 +1,6 @@
 # ChatGPT Prompt Meter Extension
 
-This Chrome browser extension enhances your experience on [ChatGPT](https://chatgpt.com) by providing an insightful visual feedback mechanism for your prompts. After you send a prompt, the extension queries the OpenAI API to receive a numerical value between 0 and 10 and displays it as a circular meter next to your prompt. The meter is color-coded from **yellow (0)** to **red (10)**, offering a quick and intuitive way to gauge additional information about your prompts.
+This Chrome browser extension enhances your experience on [ChatGPT](https://chatgpt.com) by providing an insightful visual feedback mechanism for your prompts. After you send a prompt, the extension queries the OpenAI API to receive a numerical value between 0 and 10 and displays it as a circular meter next to your prompt. The meter is color-coded from **red (0)** to **green (10)**, offering a quick and intuitive way to gauge additional information about your prompts.
 
 ---
 
